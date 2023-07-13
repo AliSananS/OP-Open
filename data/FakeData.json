@@ -1,0 +1,90 @@
+{ 
+  "link1": {
+    "url": "https://example.com/user",
+    "username": "@JadeElegance",
+    "platformName": "Instagram",
+    "followersCount": 3421234,
+    "iconUrl": "https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"
+  },
+  "link2": {
+    "url": "https://example.com/another_user",
+    "username": "@AnotherUser123",
+    "platformName": "Twitter",
+    "followersCount": 34354,
+    "iconUrl": "https://img.icons8.com/?size=512&id=13963&format=png"
+  },
+  "link3": {
+    "url": "https://example.com/snapchat_user",
+    "username": "@SnapUser789",
+    "platformName": "Snapchat",
+    "followersCount": 234567,
+    "iconUrl": "https://img.icons8.com/?size=512&id=36628&format=png"
+  },
+  "link4": {
+    "url": "https://example.com/facebook_user",
+    "username": "@FBUser456",
+    "platformName": "Facebook",
+    "followersCount": 9874321,
+    "iconUrl": "https://img.icons8.com/?size=512&id=118497&format=png"
+  },
+  "link5": {
+    "url": "https://example.com/youtube_user",
+    "username": "@YTUser123",
+    "platformName": "YouTube",
+    "followersCount": 65321,
+    "iconUrl": "https://img.icons8.com/?size=512&id=19318&format=png"
+  },
+  
+  "link6": {
+    "url": "https://example.com/tiktok_user",
+    "username": "@TikTokUser789",
+    "platformName": "TikTok",
+    "followersCount": 987654,
+    "iconUrl": "https://img.icons8.com/?size=512&id=118640&format=png"
+  },
+  "link7": {
+    "url": "https://example.com/user",
+    "username": "@JadeElegance",
+    "platformName": "Instagram",
+    "followersCount": 3421234,
+    "iconUrl": "https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"
+  },
+  "link8": {
+    "url": "https://example.com/another_user",
+    "username": "@AnotherUser123",
+    "platformName": "Twitter",
+    "followersCount": 34354,
+    "iconUrl": "https://img.icons8.com/?size=512&id=13963&format=png"
+  },
+  "link9": {
+    "url": "https://example.com/snapchat_user",
+    "username": "@SnapUser789",
+    "platformName": "Snapchat",
+    "followersCount": 234567,
+    "iconUrl": "https://img.icons8.com/?size=512&id=36628&format=png"
+  },
+  "link10": {
+    "url": "https://example.com/facebook_user",
+    "username": "@FBUser456",
+    "platformName": "Facebook",
+    "followersCount": 9874321,
+    "iconUrl": "https://img.icons8.com/?size=512&id=118497&format=png"
+  },
+  "link11": {
+    "url": "https://example.com/youtube_user",
+    "username": "@YTUser123",
+    "platformName": "YouTube",
+    "followersCount": 65321,
+    "iconUrl": "https://img.icons8.com/?size=512&id=19318&format=png"
+  },
+  
+  "link12": {
+    "url": "https://example.com/tiktok_user",
+    "username": "@TikTokUser789",
+    "platformName": "TikTok",
+    "followersCount": 987654,
+    "iconUrl": "https://img.icons8.com/?size=512&id=118640&format=png"
+  }
+
+}
+
